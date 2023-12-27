@@ -27,6 +27,6 @@ Simulation can be done from the toolbar in Logism by enabling ticks (Ctrl + K)
 
 ### After simulating the instruction:
 
-![Post simulation](load-test2.png)
+![Post simulation](load-test-2.png)
 
 
